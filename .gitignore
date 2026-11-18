@@ -1,0 +1,4 @@
+*.zip
+Debug*/
+.settings/
+.metadata/
