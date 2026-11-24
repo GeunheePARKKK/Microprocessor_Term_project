@@ -12,6 +12,8 @@
 | `주1_부품테스트/oled.h`, `oled.c` | 키트 OLED(SSD1306, I2C) 드라이버 (LPI2C0, PTA2 SDA / PTA3 SCL) |
 | `주2_시스템_1차완성/main.c` | ① 순차 루프 구조의 시스템 전체 (시나리오 1~7 상태기계) + `MEASURE 1` 스트레스 측정 (R1~R5 를 UART 로 출력) |
 | `주2_시스템_1차완성/결선표_및_동작설명.md` | 주 2 결선(29 + 측정 점퍼 1 + OLED 2), 상태표, 측정 절차, 결과표 틀 |
+| `주3_인터럽트구조/main.c`, `tp_board.c/.h` | ② 인터럽트 베어메탈 (LPIT 1 ms + PORTC 인터럽트, 비블로킹 UART) + `MEASURE 1`. tp_board 는 인터럽트용 새 버전 |
+| `주4_FreeRTOS/main.c`, `FreeRTOSConfig.h` | ③ FreeRTOS 태스크 7개 + `MEASURE 1` (R1~R5, M2, M3) / `MEASURE 2` (M1) / `DUMMY_TASKS` (M4). 커널 넣는 법은 폴더의 md |
 
 S32DS 프로젝트에는 `tp_board.c/.h` + `clocks_and_modes.c/.h`(수업 제공) + `main_test*.c` 중 하나를 `main.c` 로 넣는다.
 빌드용 코드의 주석은 ASCII 만 쓴다 (S32DS 기본 인코딩 MS949 에서 한글 주석이 깨짐).
