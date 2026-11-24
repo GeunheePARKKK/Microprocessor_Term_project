@@ -1,3 +1,6 @@
+// main_test3_uart_dwt.c : week1 test3 - UART + DWT timing check, NO wiring needed
+//  UART 9600 (OpenSDA USB) : prints a timing table (delay, Seg_out, KeyScan, UART, ultrasonic, stepper). type m to repeat
+//  the measured functions run on unconnected pins; that is fine, we only measure their time here
 #include "tp_board.h"
 
 static void report(const char *name, uint32_t us)

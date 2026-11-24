@@ -8,7 +8,8 @@
 | `주1_부품테스트/결선표_및_테스트순서.md` | 확정 결선표 (키트 헤더 ↔ EVB 핀), 테스트 순서, 통과 기준 |
 | `주1_부품테스트/tp_board.h`, `tp_board.c` | 보드 공통 코드 : PORT 설정, LPIT 딜레이, DWT 사이클 카운터, FND, 키패드, UART, 스텝모터, 초음파 |
 | `주1_부품테스트/main_test_all.c` | 주 1 통합 테스트 (키패드 · FND · 부저 · LED · 스위치 · 스텝모터 · 초음파) |
-| `주1_부품테스트/main_test1~4_*.c` | 부품별 단독 테스트 |
+| `주1_부품테스트/main_test1~5_*.c` | 부품별 단독 테스트 : 1 스텝모터만, 2 초음파만(+LED0), 3 UART·DWT(배선 없음), 4 FND·키패드·SW·LED·부저, 5 OLED 만 |
+| `주1_부품테스트/oled.h`, `oled.c` | 키트 OLED(SSD1306, I2C) 드라이버 (LPI2C0, PTA2 SDA / PTA3 SCL) |
 
 S32DS 프로젝트에는 `tp_board.c/.h` + `clocks_and_modes.c/.h`(수업 제공) + `main_test*.c` 중 하나를 `main.c` 로 넣는다.
 빌드용 코드의 주석은 ASCII 만 쓴다 (S32DS 기본 인코딩 MS949 에서 한글 주석이 깨짐).
