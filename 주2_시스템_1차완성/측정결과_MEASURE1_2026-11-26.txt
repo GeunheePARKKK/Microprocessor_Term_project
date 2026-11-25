@@ -1,0 +1,616 @@
+=== SMART PARKING BARRIER - structure (1) sequential loop ===
+MEASURE mode : PTE16 -> PTC8 jumper required. 100 runs
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 87 - press SW2 to release
+[OPEN] RELEASED, car still there -> wait
+  CAR PASSED, slots = 11
+[CLOSING] CLOSING barrier
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 92 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 86 - press SW2 to release
+[OPEN] RELEASED, car still there -> wait
+  CAR PASSED, slots = 10
+[CLOSING] CLOSING barrier
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 91 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[OPENING] OPENING (measure)
+[CLOSING] CLOSING (measure)
+STRESS LOG 0123456789
+[EMERGENCY] EMERGENCY STOP : SW1
+  stopped at pos 90 - press SW2 to release
+[CLOSING] RELEASED, closing again
+[IDLE] measurement done
+
+=== structure (1) sequential loop : stress result, N = 100 ===
+R1 emergency stop latency : avg 29134 us, max 40025 us, min 25859 us, std 4974 us
+R2 jitter (max - min)     : 14166 us
+R3 motor step interval    : target 2000 us, max 45859 us, min 4015 us, max deviation 43859 us
+R4 loop (FND) period      : Seg_out itself 4000 us, max 97239 us, min 4013 us (FND dark for period - 4000)
+R5 ultrasonic             : 1588 measurements in 171 s = 92 per 10 s (target 100)
+raw R1 (us) : 28931 25880 25877 28890 36700 28924 25895 25879 28881 25895 25877 25876 39919 25895 39934 25870 25864 28891 25871 25932 25871 39737 25897 25952 36773 25919 28880 25945 25922 28942 28934 25950 25923 39752 25878 39765 25933 25923 28870 25919 25944 25868 39811 25928 39807 25859 25918 28959 25960 25907 25902 28878 25896 25957 36878 25867 28888 25902 25859 28931 28968 25879 25877 39893 36896 28964 25885 25958 28963 25908 25871 25872 39925 25919 39828 25861 25901 28920 25950 25874 28886 25909 36762 39818 37150 37552 26617 25879 25872 28956 28931 25887 25922 40025 37180 28961 25959 25921 28902 25925
+=== end. FND shows R1 average in ms ===
